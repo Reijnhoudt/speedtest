@@ -14,7 +14,7 @@ python3 speedtest.py \<N>
 
 
 ### C++
-g++ -o speedtest speedtest.cpp
+g++ -o speedtest speedtest.cpp \n
 speedtest \<N> 
 
 N: The upper bound for which primes will be found. (integer)
