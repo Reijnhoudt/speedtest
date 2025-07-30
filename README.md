@@ -9,15 +9,12 @@ The algorithm will find all primes smaller or equal to N and print their sum.
   
 
 ## Usage
-**Python**
-
+### Python
 python3 speedtest.py \<N>
 
 
-**C++**
-
+### C++
 g++ -o speedtest speedtest.cpp
-
 speedtest \<N> 
 
 N: The upper bound for which primes will be found. (integer)
